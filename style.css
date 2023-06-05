@@ -38,7 +38,7 @@ html,body{
     display: block;
     top: -40px;
     right: 30px;
-    background: url(./img/bitcoin-cop.png) no-repeat center/contain;
+    background: url(../img/bitcoin-cop.png) no-repeat center/contain;
     z-index: 1;
   }
   .main:before {
